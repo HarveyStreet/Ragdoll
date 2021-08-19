@@ -1,4 +1,4 @@
--- Made by Harvey S.
+-- Made by Harvey Designs.
 -- =============================================================
 -- |  Only mess around in here if you know what you are doing! |
 -- =============================================================
