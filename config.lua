@@ -1,6 +1,6 @@
 Config = {}
 
-Config.GetupSpeed = 2000 -- The speed you get up
+Config.GetupSpeed = 2000 -- The speed you get up (Current at 2 Seconds)
 
 Config.ragtype = 0
 -- 0 - Normal Ragdoll
