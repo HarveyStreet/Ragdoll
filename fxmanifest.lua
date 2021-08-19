@@ -5,6 +5,6 @@ games { 'gta5' }
 author 'Harvey S.'
 
 client_scripts {
-    'client/client.lua',
+    'client.lua',
     'config.lua'
 }
